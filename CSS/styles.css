@@ -47,7 +47,7 @@ body {
 
 /* Image Slider Section */
 #slider {
-  background: url(../images/background-1.jpg) no-repeat center;
+  background: url(../images/bg1.jpg) no-repeat center;
   background-size: cover;
   color: #fff;
   font-family: 'Montserrat-black', sans-serif;
