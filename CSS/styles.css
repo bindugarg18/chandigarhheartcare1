@@ -1,0 +1,145 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+}
+
+/* Header Section */
+
+/* Header-1 */
+#header1{
+  color: #fff;
+}
+
+#header1 .nav-item{
+  font-size: 0.85rem;
+}
+
+#header1 a{
+  color: #fff;
+}
+
+#header1 a:hover{
+  background-color: #6c757d;
+  color: #ef6c57;
+}
+
+/* Header-2 */
+#header2 .navbar-brand{
+  color: #dc3545;
+  font-family: 'Montserrat-black', sans-serif;
+  font-size: 1.5rem;
+}
+
+.appointment-btn{
+  background-color: #ef6c57;
+  color: #fff;
+}
+
+#header2 a{
+  color: #393e46;
+}
+
+#header2 a:hover{
+  background-color: #eee;
+  color: #ef6c57;
+}
+
+
+/* Image Slider Section */
+#slider {
+  background: url(../images/background-1.jpg) no-repeat center;
+  background-size: cover;
+  color: #fff;
+  font-family: 'Montserrat-black', sans-serif;
+  font-size: 1.5rem;
+}
+.slider-layer{
+  background: rgba(0, 51, 102, 0.6);
+}
+}
+#slider h4, h5{
+  font-size: 2rem;
+}
+
+/* Opening Hours Section*/
+/* #opening-hours {
+  background: url(../images/background-2.jpg) no-repeat 0px 0px;
+  background-size: cover;
+}
+.oh-layer{
+  background: rgba(255, 255, 255, 0.77);
+  padding: 2rem;
+  text-align: center;
+}
+
+.oh-inner {
+  background-color: #0C579A;
+  color: #fff;
+  font-size: 1rem;
+  width: 40%;
+}
+
+.list-group-item {
+  background-color: #0C579A;
+} */
+
+/* Services Section */
+#services {
+  text-align: center;
+  width: 100%;
+  background: url(../images/testi.jpg) no-repeat center;
+  background-size: cover;
+}
+
+#services .container-fluid{
+  width: 80%;
+}
+
+#services h4{
+  padding-top: 1rem;
+}
+
+#services h3{
+  padding-top: 1rem;
+  font-family: 'Montserrat-bold', sans-serif;
+  font-size: 1.25rem;
+}
+
+#services .services-title{
+  font-family: 'Montserrat-bold', sans-serif;
+  font-size: 1.5rem;
+}
+
+/* Testimonial Section */
+#testimonials {
+  background-color: #0C579A;
+  text-align: center;
+  color: #fff;
+}
+
+#testimonials .testi-title{
+  padding-top: 2rem;
+  font-family: 'Montserrat-bold', sans-serif;
+  font-size: 1.5rem;
+}
+
+#testimonials .container-fluid{
+  padding: 1% 10%;
+}
+
+.testimonial-text {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  width: 8%;
+  border-radius: 100%;
+  margin: 10px;
+}
+
+/* Footer Section */
+.footer-div{
+  padding-top: 2%;
+  text-align: center;
+}
